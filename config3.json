@@ -1,0 +1,24 @@
+{
+	"WindowTitle": "Project particles",
+	"WindowSizeX": 1200,
+    "WindowSizeY": 800,
+	"ParticleImage": "assets/particle.png",
+	"Debug": true,
+	"InitNumParticles": 10,
+	"RandomSpawn": true,
+	"SpawnX": 600,
+	"SpawnY": 400,
+	"SpawnRate": 0.2,
+	"SpeedParticles": 3,
+
+	"Gravity": false,
+	"GravityAcc": 3,
+
+	"LifeTime": true,
+	"DeadTime": 600,
+	"DisparitionTime": 10,
+
+	"WallCollision": true,
+
+	"SplitParticles": true
+}
